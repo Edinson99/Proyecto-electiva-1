@@ -1,8 +1,8 @@
 # Nombre de la aplicación
 
-Reemplace este texto con una descripción de su aplicación. Revise el archivo [HELP.md](HELP.md) donde hay mas información sobre como usar esta plantilla.
+WeatherMap
 
-Autor(es): Nombre del estudiante
+Autor(es):Edinson Caceres
 
 ## Referencias
 
